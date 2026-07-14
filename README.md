@@ -25,3 +25,11 @@ docker compose up --scale web=3
 ## Health Check
 
 http://localhost:5000/health
+
+## CI/CD Pipeline Improvements
+
+- Added GitHub Actions workflow.
+- Enabled pip dependency caching.
+- Configured parallel jobs (lint and docker build).
+- Automated syntax checking.
+- Successfully verified the pipeline in GitHub Actions.
