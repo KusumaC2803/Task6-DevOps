@@ -33,3 +33,9 @@ http://localhost:5000/health
 - Configured parallel jobs (lint and docker build).
 - Automated syntax checking.
 - Successfully verified the pipeline in GitHub Actions.
+
+## Screenshots
+
+### GitHub Actions Pipeline
+
+![GitHub Actions](screenshots/actions_screenshot.png)
